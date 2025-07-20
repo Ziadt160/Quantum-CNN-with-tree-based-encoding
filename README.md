@@ -1,7 +1,5 @@
 # Quantum Convolutional Neural Network with Tree-Based Encoding
 
-![Quantum CNN Architecture](https://raw.githubusercontent.com/qiskit-community/qiskit-advocate-mentorship-program/main/2022/Quantum_CNN/figures/qcnn_architecture.png)
-
 ## Overview
 This project implements a **Quantum Convolutional Neural Network (QCNN)** using a novel **tree-based hybrid amplitude encoding** for input data. The goal is to leverage quantum circuits for efficient feature extraction and classification, inspired by classical CNNs but adapted for quantum hardware.
 
@@ -92,6 +90,3 @@ MIT
 *Your Name Here*
 
 ---
-
-## Screenshot
-![QCNN Circuit Example](https://raw.githubusercontent.com/qiskit-community/qiskit-advocate-mentorship-program/main/2022/Quantum_CNN/figures/qcnn_circuit.png)
